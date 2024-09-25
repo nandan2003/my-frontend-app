@@ -14,9 +14,8 @@
     "react-scripts": "5.0.0"
   },
   "devDependencies": {
-    // Add any dev dependencies if needed
   },
   "engines": {
-    "node": "16.x" // Adjust according to your environment
+    "node": "20.x"
   }
 }
